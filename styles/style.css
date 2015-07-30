@@ -319,3 +319,7 @@ ul.guessBox li {
 	margin: 0.2em;
 	color: #fff;
 }
+
+ul.guessBox .correct {
+	background-color: #cc324b;
+}
